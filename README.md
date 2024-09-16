@@ -1,6 +1,6 @@
 # Gran Sasso Science Institute LaTeX Templates
 
 TODO:
-- Select a color palette
+- Fix a meeting and discuss together
 - .... 
 - 
